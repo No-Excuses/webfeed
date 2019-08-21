@@ -5,6 +5,7 @@ export 'domain/atom_item.dart';
 export 'domain/atom_link.dart';
 export 'domain/atom_person.dart';
 export 'domain/atom_source.dart';
+export 'domain/rdf_feed.dart';
 export 'domain/rss_category.dart';
 export 'domain/rss_cloud.dart';
 export 'domain/rss_feed.dart';
